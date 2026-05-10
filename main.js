@@ -14,10 +14,10 @@ function loginCheck(){
             break;
         case false:
             if (passVar.value == "ilabyumaam!"){
-                window.alert("Wrong username!"); // if returned true but password = ilabyumaam!, then:
+                window.alert("Wrong ID number!"); // if returned true but password = ilabyumaam!, then:
             }
             else if (passVar !== "ilabyumaam!"){
-                window.alert("Wrong username and password!"); // if returned true and password doesn't = ilabyumaam!, then:
+                window.alert("Wrong ID number and password!"); // if returned true and password doesn't = ilabyumaam!, then:
             }
             break;
     }

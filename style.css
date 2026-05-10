@@ -1,0 +1,13 @@
+img{
+    width: 130px;
+}
+body{
+    background-image: url("https://background-tiles.com/overview/yellow/patterns/large/1056.png");
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+}
